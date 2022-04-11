@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 350px;
+}
+
+main {
+  font-family: "Kalam", cursive;
+}
+
+
+#logo {
+  width: 60px;
+}
+
+#task-container {
+  width: 100%;
+  max-width: 1300px;
+}
+
+.hero {
+  height: 400px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: #5c6ee5;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+
+p {
+  margin-bottom: 0.1em;
+}
+
+.card-shadow {
+  box-shadow: 10px 10px 15px #555555;
+}
+
+footer {
+  height: 80px;
+}
+
+.img-thumbnail {
+  width: 70px !important;
+  height: 70px !important;
+}
+
+td {
+  text-align: left;
+  vertical-align: middle;
+}
+
+tr {
+  text-align: center;
+}
+
+.userImage {
+  width: 100px;
+  height: auto;
+}
+
+fieldset {
+  margin: 100px auto auto;
+  width: 70%;
+}
+
+#map {
+  height: 250px;
+}
+
