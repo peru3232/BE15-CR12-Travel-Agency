@@ -9,7 +9,7 @@ function normalize ($value): string {
 //
 //$hostname = "173.212.235.205";
 //$username = "wochinge_admin";
-//$password = "TF)PAi;~]2~W";
+//$password = "";
 //$dbname =   "wochinge_be15_cr12_mount_everest_peter";
 //
 

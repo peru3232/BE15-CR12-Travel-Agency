@@ -38,7 +38,6 @@ mysqli_close($connect);
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>CR12 - Travel agency: Mount Everest - INDEX</title>
     <?php require_once 'components/styles.php'?>
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <main>
