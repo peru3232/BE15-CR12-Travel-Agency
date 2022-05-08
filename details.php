@@ -42,12 +42,12 @@ $output =  "
         </div>
       </div>
     </div>
-  </div>
-</div>
-
         <div class='py-2 text-center'>
             $buttons
         </div>
+  </div>
+</div>
+
 
 ";
 
